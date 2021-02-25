@@ -10,7 +10,7 @@ starship init fish | source
 # cargo PATH and cargo alias for Rust
 export PATH="$HOME/.cargo/bin:$PATH"
 alias ca="cargo"
-alias cb="cargp build"
+alias cb="cargo build"
 alias cf="cargo fmt"
 alias cr="cargo run"
 
