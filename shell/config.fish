@@ -13,6 +13,7 @@ alias ca="cargo"
 alias cb="cargo build"
 alias cf="cargo fmt"
 alias cr="cargo run"
+alias ct="cargo test"
 
 # git aliases
 alias g="git"
